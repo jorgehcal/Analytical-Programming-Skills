@@ -5,7 +5,7 @@ In this repository I provide two humble examples of two distinct tasks, one in R
      recuperating ommited information in dataframes which born from surveys.
      
    - Data_Processing&Graphic.py is a Python file where I show how to process the file YourData.xls
-     to obtain the graphic Health_Age_Sex
+     to obtain the interactive file Health_Age_Sex.html.
      
 Thank you very much for your attention,
 
