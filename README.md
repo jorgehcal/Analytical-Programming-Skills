@@ -4,9 +4,9 @@ In this repository I provide two humble examples of two distinct tasks, one in R
    - FilterQuestion.R is an R file where I explain in a simple way the problem of 
      recuperating ommited information in dataframes which born from surveys
      
-   - Data_Processing&Graphic.py is a Python file where I show how to process the file YourData.xls
-     to obtain the interactive file Graphic_Health_Age_Sex.html
-
+   - Creating an Interactive Graphic with Altair.ipynb is a Jupyter Notebook file where I show how to process the file YourData.xls
+     with Python code to obtain an interactive bar graphic (you may see a photo of it in the repository).
+     
 As an extra document, I have added the following pdf about another data problem:
 
   - ClusteringBigML.pdf shows an application of a basic algorithm in Machine Learning, the K-means algorithm, using the online software BigMl, which I have recently learnt to       use.
