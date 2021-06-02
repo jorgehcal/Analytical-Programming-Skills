@@ -9,7 +9,7 @@ In this repository I provide two humble examples of two distinct tasks, one in R
 
 As an extra document, I have added the following pdf about another data problem:
 
-  - ClusteringBigML.pdf shows an application of a basic algorithm in Machine Learning, the K-means algorithm.
+  - ClusteringBigML.pdf shows an application of a basic algorithm in Machine Learning, the K-means algorithm, using the online software BigMl, which I have recently learnt to       use.
 
 I would like to highlight that I am not a Python, nor an R nor a Machine Learning expert. With these files my aim is to show you my ability to learn different programming languages, and to pose and solve problems with different resources.
 
