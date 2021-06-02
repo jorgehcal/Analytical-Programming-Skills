@@ -5,7 +5,7 @@ In this repository I provide two humble examples of two distinct tasks, one in R
      recuperating ommited information in dataframes which born from surveys
      
    - Creating an Interactive Graphic with Altair.ipynb is a Jupyter Notebook file where I show how to process the file YourData.xls
-     with Python code to obtain an interactive bar graphic (you may see a photo of it in the repository).
+     with Python code to obtain an interactive bar graphic (you may see a photo of it in the repository: Graphic_Healt_Age_Sex.png).
      
 As an extra document, I have added the following pdf about another data problem:
 
