@@ -6,8 +6,7 @@ In this repository I provide two humble examples of two distinct tasks, one in R
      
    - Creating an Interactive Graphic with Altair.ipynb is a Jupyter Notebook file where I show how to process the file YourData.xls
      with Python code to obtain an interactive bar graphic (you may see a photo of it in the repository: Graphic_Healt_Age_Sex.png). The file Data_Processing_&Graphic.py  
-     is merely the code corresponding to the Jupyter Notebook, just in case you would like to have it. If you compile it in your computer, you may play with the html file which
-     it generates.
+     is merely the code corresponding to the Jupyter Notebook, just in case you would like to have it. 
       
 As an extra document, I have added the following pdf about another data problem:
 
