@@ -2,7 +2,7 @@
 In this repository I provide two humble examples of two distinct tasks, one in R and the other in Python, both of them being modified parts of the bigger project that I am currently working on. These two tasks are similar in the sense that they are related to data science problems. I briefly explain each of them:
 
    - FilterQuestion.R is an R file where I explain in a simple way the problem of 
-     recuperating ommited information in dataframes which born from surveys
+     recuperating ommited information in dataframes which born from surveys.
      
    - Creating an Interactive Graphic with Altair.ipynb is a Jupyter Notebook file where I show how to process the file YourData.xls
      with Python code to obtain an interactive bar graphic (you may see a photo of it in the repository: Graphic_Healt_Age_Sex.png). The file Data_Processing_&Graphic.py  
