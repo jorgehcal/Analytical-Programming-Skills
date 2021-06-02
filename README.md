@@ -6,7 +6,13 @@ In this repository I provide two humble examples of two distinct tasks, one in R
      
    - Data_Processing&Graphic.py is a Python file where I show how to process the file YourData.xls
      to obtain the interactive file Graphic_Health_Age_Sex.html
-     
+
+As an extra document, I have added the following pdf about another data problem:
+
+  - ClusteringBigML.pdf shows an application of a basic algorithm in Machine Learning, the K-means algorithm.
+
+I would like to highlight that I am not a Python, nor an R nor a Machine Learning expert. With these files my aim is to show you my ability to learn different programming languages, and to pose and solve problems with different resources.
+
 Thank you very much for your attention,
 
 Jorge
